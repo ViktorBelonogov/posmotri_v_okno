@@ -211,7 +211,8 @@ fieldset {
 }
 
 .content__list {
-  max-height: 298px;
+  /* max-height: 298px; */
+  block-size: 295px;
   overflow: auto;
   position: relative;
 }
